@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Dr.Suresh Kumar    by DAINIK</title>
+    </head>
+    <body>
+      <h1>Dr.Suresh Kumar </h1>
+      <center><h1>E-NOTES/VIDEOS/PYTHON PROGRAMS</h1></center>
+      <hr>
+ 
+      <ul>
+        <li><b>M1 (CALCULUS)</b> </li>
+        <ul>
+            <li>Chap10 (Infinite Series):<a href="https://www.dropbox.com/s/1bmzl5u69mtyko4/Chap10_infinite_series_2019.pdf">e-notes</a> ,<a href="https://www.youtube.com/watch?v=df3tmoUEgZs&list=PL3C5OVut2XfKvOed3_08Q1RtaOfNIbi3U">Videos</a>,<a href="https://github.com/surgithub/M1/blob/main/chap10.ipynb">py-Ex</a></li>
+            <li>Chap11 (Polar Coordinates):</li>
+            <li>Chap13 (Vector Functions):</li>
+            <li>Chap14 (Partial Derivatives):</li>
+            <li>Chap15 (Multiple Integrals):</li>
+            <li>Chap16 (Vector Field Integration):</li>
+            
+
+        </ul>
+
+
+
+        <li><b>M3 (DIFFERENTIAL EQUATIONS)</b>b></li>
+
+        <ul>
+            <li>Chap1 (Preliminaries of Differential Equations):</li>
+            <li>Chap2 (First Order Differential Equations):</li>
+            <li>Chap3 (Second Order Differential Equations):</li>
+            <li>Chap4 (Qualitative Behavior of Solutions):</li>
+            <li>Chap5 (Power Series Solutions and Special Functions):</li>
+            <li>Chap6 (Fourier Series):</li>
+            <li>Chap7 (Boundary Value Problems) :</li>
+            <li>Chap8 (Some Special Functions):</li>
+            <li>Chap9 (Laplace Transforms):</li>
+            <li>Chap10 (Systems of First Order Diff. Equations):</li>
+
+
+        </ul>
+        <li><b>PROBABILITY AND STATISTICS</b>> </li>
+        <li><b>M2 (LINEAR ALGEBRA & COMPLEX ANALYSIS)</b>></li>
+        <li><b>PARTIAL DIFFERENTIAL EQUATIONS</b>></li>
+        <li><b>MAIR 11   (NIT KURUKSHETRA)</b></li>
+
+      
+
+
+      </ul>
+
+
+
+    </body>
+
+
+ 
+</html>
